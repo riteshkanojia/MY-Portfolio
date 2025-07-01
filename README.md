@@ -78,3 +78,83 @@ Google Business Profile, Review Management Tools
 ChatGPT, Automation Utilities, Keyword Clustering Tools
 
 ---
+
+## Project 1: Mr. Blue – Franchise & Laundry Service Growth Campaign
+
+**Role:** SEO Lead, Google Ads Specialist, Meta Ads Strategist, Website Optimizer  
+**Niche:** Franchise Selling & Laundry Services  
+**Duration:** September 2024 – Ongoing  
+**Channels:** SEO (Local & National), Google Ads, Meta Ads (Facebook & Instagram), Website Design  
+
+---
+
+### Objectives
+
+- Improve visibility on Google search and social media.
+- Generate quality leads for both services and franchise sales.
+- Rank at the top of Google SERPs for high-volume and niche keywords.
+- Maximize keyword reach and brand presence across India.
+- Achieve visibility on AI Overviews and Suggested Snippets.
+
+---
+
+### Actions Taken
+
+**Social Media Campaigns (Meta Ads):**  
+- Ran creative-driven ad campaigns on Facebook & Instagram for both franchise sales and laundry services.
+- Targeted niche audiences using interest-based and custom audience strategies.
+
+**Google Ads Campaigns:**  
+- Improved ad structure, copy, bidding, and Quality Score.
+- Ensured top-of-page visibility for transactional and franchise-related search queries.
+
+**SEO Strategy:**  
+- Created and optimized service pages, franchise pages, and blog posts targeting national and city-based keywords.
+- Used topical clustering, internal linking, and on-page SEO best practices.
+- Built backlinks and improved brand reputation via listings, reviews, and citations.
+- Enhanced website UX/UI to improve dwell time, engagement, and conversions.
+- Increased CTR through better titles, meta descriptions, and visual elements.
+
+---
+
+### Results
+
+**Organic Growth (Google Search Console):**  
+- Clicks increased: 56 → 360+  
+- Impressions increased: 1,200 → 10,800+  
+- Average position improved: 21 → 12.5  
+- Keyword reach expanded: 162 → 2,000+  
+
+---
+
+### Top Keyword Rankings (India)
+
+| Keyword                           | Volume  | Rank  | AI Overview |
+|-----------------------------------|---------|-------|-------------|
+| franchise business                | 18,000  | 3     | Yes         |
+| small franchise business in India | 1,900   | 1     | Yes         |
+| franchise in bangalore            | 1,300   | 9     | No          |
+| laundry franchise                 | 880     | 5     | No          |
+
+[View Full Keyword Report](https://docs.google.com/spreadsheets/d/1kDtOSrE2rH2BzdVZrC7Gehcm4MCqN0w6NcthOizTl6c/edit?gid=0#gid=0)
+
+---
+
+### Visual Proof
+
+**Google Search Console (Last 3 Months):**  
+![Search Console Performance](/mnt/data/f248e321-e323-4a10-992f-48d0b3e4b2be.png)
+
+**Featured Snippets & Rankings:**  
+Franchise Business, Small Franchise Business in India, Laundry Franchise, Franchise in Bangalore
+
+![AI Overview Result](/mnt/data/WhatsApp%20Image%202025-07-01%20at%2011.34.20_bdb72895.jpg)  
+![Franchise Business Google Result](/mnt/data/d442a3a7-e7ae-4291-b7f3-d1ee1b94df52.png)  
+![Franchise in Bangalore Search](/mnt/data/68b0994a-5e70-4254-9f09-d43960e9c92a.png)  
+![Laundry Franchise Search](/mnt/data/f91ffb6c-b7ec-4fdd-a848-2180f2eaa6ac.png)
+
+**SEMrush Performance Overview:**  
+*(Add SEMrush screenshot here if available)*
+
+---
+
