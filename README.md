@@ -147,16 +147,20 @@ ChatGPT, Automation Utilities, Keyword Clustering Tools
 
 ### Visual Proof
 
-**Google Search Console (Last 3 Months):**  
-![Search Console Performance](/mnt/data/f248e321-e323-4a10-992f-48d0b3e4b2be.png)
+**Google Search Console (before vs after):**  
+![image](https://github.com/user-attachments/assets/bcde5f00-4140-4a3f-851a-564ecca31d01)
+![image](https://github.com/user-attachments/assets/1fa1068d-002a-429b-98b5-d87438d4fa49)
+
+**Last 3 Month Comparison:** 
+![image](https://github.com/user-attachments/assets/421a9318-b809-4def-ae55-2de11278a4c6)
+
+
+
 
 **Featured Snippets & Rankings:**  
 Franchise Business, Small Franchise Business in India, Laundry Franchise, Franchise in Bangalore
 
-![AI Overview Result](/mnt/data/WhatsApp%20Image%202025-07-01%20at%2011.34.20_bdb72895.jpg)  
-![Franchise Business Google Result](/mnt/data/d442a3a7-e7ae-4291-b7f3-d1ee1b94df52.png)  
-![Franchise in Bangalore Search](/mnt/data/68b0994a-5e70-4254-9f09-d43960e9c92a.png)  
-![Laundry Franchise Search](/mnt/data/f91ffb6c-b7ec-4fdd-a848-2180f2eaa6ac.png)
+
 
 **SEMrush Performance Overview:**  
 *(Add SEMrush screenshot here if available)*
