@@ -158,12 +158,28 @@ ChatGPT, Automation Utilities, Keyword Clustering Tools
 
 
 **Featured Snippets & Rankings:**  
-Franchise Business, Small Franchise Business in India, Laundry Franchise, Franchise in Bangalore
+Franchise Business, Small Franchise Business in India, Laundry Franchise,
+![image](https://github.com/user-attachments/assets/967cedab-ea2f-4564-bf5c-14efa028eba7)
+![image](https://github.com/user-attachments/assets/125683ca-c323-4d07-a27b-88b2584e08d4)
+![image](https://github.com/user-attachments/assets/0d153d91-b857-46eb-9223-3cd2a4d769ac)
 
 
 
-**SEMrush Performance Overview:**  
-*(Add SEMrush screenshot here if available)*
+
+
+**SEMrush Performance Overview (Before and After):**  
+![image](https://github.com/user-attachments/assets/120be0ae-40f1-424b-a14f-7a5cb60799dc)
+![image](https://github.com/user-attachments/assets/316c5420-0bb4-4cd6-b518-91c3d996b36e)
+![image](https://github.com/user-attachments/assets/28f7dce5-dd96-4f39-a17b-c5dea938908e)
+![image](https://github.com/user-attachments/assets/d843d6e6-b253-4ecb-9b4e-ec24fa59be9c)
+![image](https://github.com/user-attachments/assets/72426fd1-23b9-4c33-89db-4745c9493bdc)
+![image](https://github.com/user-attachments/assets/bbd6ed01-1377-4a28-93ff-dfccc632f88d)
+
+
+
+
+
+
 
 ---
 
